@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Henry147147
 - 👀 I’m interested in Mathmatics, programing, and the STEM feild
 - 🌱 I’m currently learning how to improve my programing skills
-- 💞️ I’m looking to collaborate on any difficult project
+- 💞️ I’m looking to collaborate on any python or java project
 - 📫 How to reach me: 
     - Email: henryd147147@gmail.com
     - Discord: Henry147#7988
